@@ -6,7 +6,7 @@
 
 ## Output
 
-```{"original_url":"http://example.com", "short_url":"localhost:5000/{shortUrl}"}```
+```{"original_url":"http://example.com", "short_url":"[yourdomain]/{shortUrl}"}```
 
 ## To use:
 
